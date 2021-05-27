@@ -2,6 +2,7 @@
 - degree: Full Stack Webdeveloper Nanodegree  
   uni: Udacity
   year: June, 2014 &mdash; January, 2015
+ add-education
   # awards:
   # summary:
 degree: Bachelors in computer Science 
@@ -9,3 +10,7 @@ degree: Bachelors in computer Science
   year: June, 2018 &mdash; January, 2021
   # awards:
   summary: Software Developer,Data Scientist and Travel  Ethusiast
+
+  awards: Most Dedicated Student per Optional Activities Completed
+  summary: Spent 6 dedicated months working 12 hour days to build out multiple real world apps and websites.
+ main
